@@ -1,0 +1,1 @@
+# 8-componentler-arasi-iletisim-baslangic-kodu
